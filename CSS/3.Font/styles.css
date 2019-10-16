@@ -1,0 +1,44 @@
+body {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#first {
+  font-family: "Almarai";
+}
+#second {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+}
+
+#third {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#first > q {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+#second > q {
+  font-family: Helvetica;
+}
+
+#third > q {
+  font-family: Geneva;
+}
+
+#third span {
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* Font download link 
+*/
+@font-face {
+  font-family: "alex_brushregular";
+  src: url("alexbrush-regular-webfont.woff2") format("woff2"),
+    url("alexbrush-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}

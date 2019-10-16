@@ -1,0 +1,21 @@
+#first{
+    background-color:#3F51B5;
+    color:FFFFFF;
+    opacity: 0.5;
+}
+
+.container{
+
+    opacity:0.5;
+}
+.footer{
+    background:rgba(202, 156, 255, 0.5)
+}
+#second{
+    background-color:rgba(202, 156, 255, 0.5)
+    
+}
+#third{
+    background-color:darkgrey;
+    color:#8a0437;
+}
