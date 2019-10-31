@@ -1,74 +1,171 @@
 .row1 {
-    background-color: rgb(10, 12, 131);
-    color: white;
+  background-color: #293e4f;
+  color: white;
 }
 
 h1 {
-    font-weight: bold;
-    font-size: 30px;
+  font-weight: bold;
+  font-size: 30px;
 }
 
 ul li a {
-    font-weight: bold;
-    color: white;
+  font-weight: bold;
+  color: white;
 }
 
 .rowheaderimg {
-    padding-top: 85px;
-    text-align: center;
-    background-color: rgb(40, 197, 150);
+  padding-top: 85px;
+  text-align: center;
+  background-color: #00bc9c;
 }
 
 .rowstarwhite span {
-    color: white;
-
+  color: white;
 }
 
 .rowstarwhite {
-    background-color: rgb(40, 197, 150);
-
+  background-color: #00bc9c;
 }
 
 .whitestar {
-    color: white;
-    text-align: center;
+  font-size: 57px;
+  color: white;
+  text-align: center;
 }
 
 .hedertext {
-    background-color: rgb(40, 197, 150);
-    color: white;
+  background-color: #00bc9c;
+  color: white;
 }
 
 h2 {
-    font-weight: bold;
-    font-size: 75px;
-    text-align: center;
+  font-weight: bold;
+  font-size: 75px;
+  text-align: center;
 }
 
 .rowheadertext {
-    background-color: rgb(40, 197, 150);
-    color: white;
-    text-align: center;
-    font-size: 20px;
-    padding-bottom: 60px;
-    font-weight: bold;
-
+  background-color: #00bc9c;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 60px;
+  font-weight: bold;
 }
 
 .rowstarblack {
-    padding-top: 35px;
-    color: black;
-    text-align: center;
+  padding-top: 35px;
+  color: black;
+  text-align: center;
 }
 
 .portfoliostar {
-    font-size: 32px;
-    font-weight: bold;
+  font-size: 60px;
+  font-weight: bold;
+}
+#imgfix {
+  padding: 20px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+  width: 300px;
+}
+.blackstar {
+  font-size: 57px;
+}
+.rowgreen2 {
+  margin-top: 80px;
+  text-align: center;
+  background-color: #00bc9c;
+}
+.whitestargren {
+  color: white;
+  font-size: 57px;
+}
+.about {
+  color: white;
+  padding-top: 68px;
+  font-size: 60px;
+  font-weight: bold;
+}
+.rowtext {
+  text-align: left;
+  color: white;
+}
+.button > span {
+  color: white;
+  border: 1px solid white;
+  padding: 0.5%;
+}
+.button {
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 4%;
+}
+.contactme {
+  margin-top: 10px;
+  text-align: center;
+}
+.contactme2 {
+  color: black;
+  padding-top: 68px;
+  font-size: 60px;
+  font-weight: bold;
+}
+.blackstar1 {
+  font-size: 57px;
+}
+.rowpictures {
+  width: 70%;
+  margin: 0 auto;
+}
+.rowpictures img {
+  margin-bottom: 7%;
+}
+.rowform {
+  color: black;
+}
+form {
+  color: #858e95;
+}
+label {
+  font-size: 2em;
+}
+input {
+  border: 0;
+}
+textarea {
+  border: 0;
+}
+#submit {
+  color: white;
+  background-color: #00bc9c;
+  font-size: 150%;
+  border-radius: 5px;
+  padding: 1% 2%;
 }
 
-#imgfix {
-    padding: 20px;
-    padding-bottom: 0px;
-    padding-left: 20px;
-    width: 300px;
+.rowcopyright {
+  margin: 0 auto;
+  width: 70%;
+  text-align: center;
+  background-color: #293e4f;
+  margin-top: 5%;
+  color: white;
+}
+.location > img {
+}
+.location > span {
+  font-size: 30px;
+  border-radius: 50%;
+  border: 1px solid white;
+  padding: 10px 10px;
+}
+.location1 {
+  padding-bottom: 20px;
+}
+.location3 > .gmail {
+  font-size: 20px;
+  border-radius: 50%;
+  border: 1px solid white;
+  padding: 2px;
 }

@@ -1,0 +1,61 @@
+.row1 {
+  background-color: #0a0c83;
+  color: white; }
+
+h1 {
+  font-weight: bold;
+  font-size: 30px; }
+
+ul li a {
+  font-weight: bold;
+  color: white; }
+
+.rowheaderimg {
+  padding-top: 85px;
+  text-align: center;
+  background-color: #28c596; }
+
+.rowstarwhite span {
+  color: white; }
+
+.rowstarwhite {
+  background-color: #28c596; }
+
+.whitestar {
+  font-weight: bold;
+  color: white;
+  text-align: center; }
+
+.hedertext {
+  background-color: #28c596;
+  color: white; }
+
+h2 {
+  font-weight: bold;
+  font-size: 75px;
+  text-align: center; }
+
+.rowheadertext {
+  background-color: #28c596;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 60px;
+  font-weight: bold; }
+
+.rowstarblack {
+  padding-top: 35px;
+  color: black;
+  text-align: center; }
+
+.portfoliostar {
+  font-size: 32px;
+  font-weight: bold; }
+
+#imgfix {
+  padding: 20px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+  width: 300px; }
+
+/*# sourceMappingURL=css.map */
