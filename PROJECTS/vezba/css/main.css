@@ -1,0 +1,141 @@
+.colbar div {
+  width: 35px;
+  height: 4px;
+  background-color: white;
+  margin: 6px 0px;
+  align-content: center;
+  margin: 0px auto; }
+
+.colbar {
+  font-size: 20px;
+  color: white; }
+
+.colbar span {
+  font-size: 30px; }
+
+#menu {
+  padding-bottom: 5px; }
+
+.rowheader {
+  background-image: url("../images/main-banner.jpg");
+  align-content: center;
+  background-repeat: no-repeat;
+  height: auto;
+  padding-bottom: 100px;
+  padding-top: 50px;
+  text-align: center; }
+
+.span {
+  font-size: 30px;
+  color: white; }
+
+.span span {
+  font-weight: bold;
+  color: #f7600f; }
+
+#h1 {
+  padding-top: 150px;
+  font-weight: bold;
+  padding-top: 20px;
+  font-size: 65px;
+  color: white; }
+
+#h1 span {
+  color: #f7600f; }
+
+.col-12 p {
+  color: white;
+  font-size: 26px;
+  margin-bottom: 50px; }
+
+.hireus button {
+  border: 1px solid white;
+  color: white;
+  background: transparent;
+  border-radius: 10px;
+  padding: 10px;
+  width: 200px;
+  float: right; }
+
+.hireus button:hover {
+  border: none;
+  background-color: #f7600f; }
+
+.ourworks button {
+  border: 1px solid white;
+  color: white;
+  background: transparent;
+  border-radius: 10px;
+  padding: 10px;
+  float: left;
+  width: 200px; }
+
+.ourworks button:hover {
+  background-color: #f7600f;
+  border: none; }
+
+#h1 {
+  margin-top: 100px;
+  margin-bottom: 60px; }
+
+.arrowDown {
+  margin-top: 250px; }
+
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  border: 2px solid lightgray;
+  border-radius: 100px; }
+
+.icons p {
+  text-align: center; }
+
+.row2 {
+  text-align: center; }
+
+.icons2 {
+  padding: 80px; }
+
+.icons2 span {
+  font-weight: bold; }
+
+.rowsub {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(../images/newsletter-background.jpg);
+  background-repeat: no-repeat;
+  padding: 100px; }
+
+#input {
+  width: 400px;
+  border: 0px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 10px; }
+
+.button {
+  margin-left: 10px;
+  border: none;
+  color: white;
+  background-color: #f7600f;
+  border-radius: 10px;
+  padding: 10px;
+  width: 200px; }
+
+#h2 {
+  color: black; }
+
+#h2 span {
+  color: #f7600f; }
+
+.ourteam {
+  padding-top: 40px; }
+
+/*# sourceMappingURL=main.css.map */
